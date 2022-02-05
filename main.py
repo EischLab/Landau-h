@@ -1,7 +1,7 @@
-import numpy as np
-import pandas as pd
 from __future__ import print_function
 from functools import reduce
+import numpy as np
+import pandas as pd
 import numbers as num
 import string
 
