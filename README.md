@@ -2,7 +2,7 @@
 This script allows for the generation of sociomatrices, Landau's h, and DeVries' correction for missing samples for societies of variable size
 
 
-We include a COLAB notebook for folks with no coding/programming experience
+We include a [COLAB notebook](https://colab.research.google.com/drive/1gWELPgAy3QHsnkxuqd08lXDMcTNFgbR4?usp=sharing) for folks with no coding/programming experience 📒
 
 ---
 Landau's linearity index (h) for social dominance ranges from 0 (fully non-linear) to 1 (fully linear), with 0.7 suggested as a threshold for linearity.
@@ -17,11 +17,13 @@ This worksheet enables you to generate a sociomatrix and calculate h and h' by s
 
 # Installation
 
+Python 3.6 🐍
+
 `pip-install pandas`
 
 ---
 
-References: 
+## References: 
 
 >*On Dominance Relations and the Structure of Animal Societies: I. Effect of Inherent Characteristics. H.G. Landau, 1951*
 
