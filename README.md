@@ -19,7 +19,7 @@ This worksheet enables you to generate a sociomatrix and calculate h and h' by s
 
 Python 3.6 🐍
 
-`pip-install pandas`
+`pip install pandas`
 
 ---
 
